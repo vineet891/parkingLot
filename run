@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Starting Parking Lot..."
+go run main.go inputFile.txt
